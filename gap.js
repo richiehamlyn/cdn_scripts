@@ -6,7 +6,3 @@
     _st('setPageStructure', 'home');
     _st('loadTags');
     console.log('Relay42 basescript running for GAP');
-    _st.tracking.sendPageview(url);
-    var relayId = _st.tracking.getUserIdentifier();
-        sessionStorage.setItem("relay_id", "relayId");
-    console.log('Page view sent to Relay and ID set in session (relay_id): ' + sessionStorage.getItem("relay_id");
