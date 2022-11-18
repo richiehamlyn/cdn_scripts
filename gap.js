@@ -5,4 +5,4 @@
     _st('setCookieDomain', 'www.gap.co.uk');
     _st('setPageStructure', 'home');
     _st('loadTags');
-    console.log('Relay42 basescript running');
+    console.log('Relay42 basescript running for GAP');
