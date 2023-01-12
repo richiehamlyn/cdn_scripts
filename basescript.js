@@ -5,4 +5,4 @@
     _st('setCookieDomain', 'world.expeditions.com');
     _st('setPageStructure', 'home');
     _st('loadTags');
-    console.log('Relay42 basescript running for Lindbald account from CDN');
+    console.log('Git Hub: Relay42 basescript running for Lindbald account from CDN');
