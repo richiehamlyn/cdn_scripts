@@ -5,4 +5,4 @@
     _st('setCookieDomain', 'www.ktc.co.th');
     _st('setPageStructure', 'home');
     _st('loadTags');
-    console.log('Git Hub: Relay42 basescript running for KTC account from CDN');
+    console.log('Git Hub: Relay42 basescript running for KTC (updated domain) account from CDN');
